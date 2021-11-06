@@ -382,61 +382,61 @@ This new method is able to generate a complete 3-dimensional scene and has the a
 
 ## Paper references<a name="references"></a>
 
-[1] A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, Yolov4: Optimal speed and accuracy of object detection, 2020. arXiv:2004.10934 [cs.CV].
+[1] todo
 
-[2] S.-Y. Chen, W. Su, L. Gao, S. Xia, and H. Fu, "DeepFaceDrawing: Deep generation of face images from sketches," ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH2020), vol. 39, no. 4, 72:1–72:16, 2020.
+[2] todo
 
-[3] S. W. Kim, Y. Zhou, J. Philion, A. Torralba, and S. Fidler, "Learning to Simulate DynamicEnvironments with GameGAN," in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2020.
+[3] todo
 
-[4] S. Menon, A. Damian, S. Hu, N. Ravi, and C. Rudin, Pulse: Self-supervised photo upsampling via latent space exploration of generative models, 2020. arXiv:2003.03808 [cs.CV].
+[4] todo
 
-[5] M.-A. Lachaux, B. Roziere, L. Chanussot, and G. Lample, Unsupervised translation of programming languages, 2020. arXiv:2006.03511 [cs.CL].
+[5] todo
 
-[6] S. Saito, T. Simon, J. Saragih, and H. Joo, Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization, 2020. arXiv:2004.00452 [cs.CV].
+[6] todo
 
-[7] J. Naruniec, L. Helminger, C. Schroers, and R. Weber, "High-resolution neural face-swapping for visual effects," Computer Graphics Forum, vol. 39, pp. 173–184, Jul. 2020.doi:10.1111/cgf.14062.
+[7] todo
 
-[8] T. Park, J.-Y. Zhu, O. Wang, J. Lu, E. Shechtman, A. A. Efros, and R. Zhang,Swappingautoencoder for deep image manipulation, 2020. arXiv:2007.00653 [cs.CV].
+[8] todo
 
-[9] T. B. Brown, B. Mann, N. Ryder, M. Subbiah, J. Kaplan, P. Dhariwal, A. Neelakantan, P.Shyam, G. Sastry, A. Askell, S. Agarwal, A. Herbert-Voss, G. Krueger, T. Henighan, R. Child, A. Ramesh, D. M. Ziegler, J. Wu, C. Winter, C. Hesse, M. Chen, E. Sigler, M. Litwin, S.Gray, B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sutskever, and D. Amodei,"Language models are few-shot learners," 2020. arXiv:2005.14165 [cs.CL].
+[9] todo
 
-[10] Y. Zeng, J. Fu, and H. Chao, Learning joint spatial-temporal transformations for video in-painting, 2020. arXiv:2007.10247 [cs.CV].
+[10] todo
 
-[11] M. Chen, A. Radford, R. Child, J. Wu, H. Jun, D. Luan, and I. Sutskever, "Generative pretraining from pixels," in Proceedings of the 37th International Conference on Machine Learning, H. D. III and A. Singh, Eds., ser. Proceedings of Machine Learning Research, vol. 119, Virtual: PMLR, 13–18 Jul 2020, pp. 1691–1703. [Online]. Available:http://proceedings.mlr.press/v119/chen20s.html.
+[11] todo
 
-[12] Xinrui Wang and Jinze Yu, "Learning to Cartoonize Using White-box Cartoon Representations.", IEEE Conference on Computer Vision and Pattern Recognition, June 2020.
+[12] todo
 
-[13] S. Mo, M. Cho, and J. Shin, Freeze the discriminator: A simple baseline for fine-tuning gans,2020. arXiv:2002.10964 [cs.CV].
+[13] todo
 
-[14] K. Sarkar, D. Mehta, W. Xu, V. Golyanik, and C. Theobalt, "Neural re-rendering of humans from a single image," in European Conference on Computer Vision (ECCV), 2020.
+[14] todo
 
-[15] G. Moon and K. M. Lee, "I2l-meshnet: Image-to-lixel prediction network for accurate 3d human pose and mesh estimation from a single rgb image," in European Conference on ComputerVision (ECCV), 2020
+[15] todo
 
-[16] J. Krantz, E. Wijmans, A. Majumdar, D. Batra, and S. Lee, "Beyond the nav-graph: Vision-and-language navigation in continuous environments," 2020. arXiv:2004.02857 [cs.CV].
+[16] todo
 
-[17] Z. Teed and J. Deng, Raft: Recurrent all-pairs field transforms for optical flow, 2020. arXiv:2003.12039 [cs.CV].
+[17] todo
 
-[18] Z. Li, W. Xian, A. Davis, and N. Snavely, "Crowdsampling the plenoptic function," inProc.European Conference on Computer Vision (ECCV), 2020.
+[18] todo
 
-[19] Z. Wan, B. Zhang, D. Chen, P. Zhang, D. Chen, J. Liao, and F. Wen, Old photo restoration via deep latent space translation, 2020. arXiv:2009.07047 [cs.CV].
+[19] todo
 
-[20] Lechner, M., Hasani, R., Amini, A. et al. Neural circuit policies enabling auditable autonomy. Nat Mach Intell 2, 642–652 (2020). https://doi.org/10.1038/s42256-020-00237-3
+[20] todo
 
-[21] R. Or-El, S. Sengupta, O. Fried, E. Shechtman, and I. Kemelmacher-Shlizerman, "Lifespanage transformation synthesis," in Proceedings of the European Conference on Computer Vision(ECCV), 2020.
+[21] todo
 
-[22] Jason Antic, Creator of DeOldify, https://github.com/jantic/DeOldify
+[22] todo
 
-[23] S. Ging, M. Zolfaghari, H. Pirsiavash, and T. Brox, "Coot: Cooperative hierarchical trans-former for video-text representation learning," in Conference on Neural Information ProcessingSystems, 2020.
+[23] todo
 
-[24] Z. Zou, T. Shi, S. Qiu, Y. Yuan, and Z. Shi, Stylized neural painting, 2020. arXiv:2011.08114[cs.CV].
+[24] todo
 
-[25] Z. Ke, K. Li, Y. Zhou, Q. Wu, X. Mao, Q. Yan, and R. W. Lau, "Is a green screen really necessary for real-time portrait matting?" ArXiv, vol. abs/2011.11961, 2020.
+[25] todo
 
-[26] T. Karras, M. Aittala, J. Hellsten, S. Laine, J. Lehtinen, and T. Aila, Training generative adversarial networks with limited data, 2020. arXiv:2006.06676 [cs.CV].
+[26] todo
 
-[27] J. A. Weyn, D. R. Durran, and R. Caruana, "Improving data-driven global weather prediction using deep convolutional neural networks on a cubed sphere", Journal of Advances in Modeling Earth Systems, vol. 12, no. 9, Sep. 2020, issn: 1942–2466.doi:10.1029/2020ms002109
+[27] todo
 
-[28] P. P. Srinivasan, B. Deng, X. Zhang, M. Tancik, B. Mildenhall, and J. T. Barron, "Nerv: Neural reflectance and visibility fields for relighting and view synthesis," in arXiv, 2020.
+[28] todo
 
 
 
