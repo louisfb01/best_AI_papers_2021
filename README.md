@@ -59,9 +59,9 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [Styleclip: Text-driven manipulation of StyleGAN imagery [28]](#28)
 - [TimeLens: Event-based Video Frame Interpolation [29]](#29)
 - [Diverse Generation from a Single Video Made Possible [30]](#30)
-- [todo [31]](#31)
-- [todo [32]](#32)
-- [todo [33]](#33)
+- [Skillful Precipitation Nowcasting using Deep Generative Models of Radar [31]](#31)
+- [The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks [32]](#32)
+- [ADOP: Approximate Differentiable One-Pixel Point Rendering [33]](#33)
 - [Paper references](#references)
 
 ---
@@ -354,7 +354,7 @@ AI could generate images, then, using a lot of brainpower and trial and error, r
 TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see. In fact, it achieves results that our intelligent phones and no other models could reach before!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](https://youtu.be/HWA0yVXYRlk)
+[<img src="https://imgur.com/ZF4fK31.png" width="512"/>](https://youtu.be/HWA0yVXYRlk)
 * Short read: [How to Make Slow Motion Videos With AI!](https://www.louisbouchard.ai/timelens/)
 * Paper: [TimeLens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf)
 * [Click here for the code](https://github.com/uzh-rpg/rpg_timelens)
@@ -374,34 +374,38 @@ Indeed, using a simple video, you can perform any tasks I just mentioned in seco
 * [Click here for the code](https://nivha.github.io/vgpnn/)
 
 
-## title_goes_here [31]<a name="31"></a>
-my_text_goes_here
+## Skillful Precipitation Nowcasting using Deep Generative Models of Radar [31]<a name="31"></a>
+DeepMind just released a Generative model able to outperform widely-used nowcasting methods in 89% of situations for its accuracy and usefulness assessed by more than 50 expert meteorologists! Their model focuses on predicting precipitations in the next 2 hours and achieves that surprisingly well. It is a generative model, which means that it will generate the forecasts instead of simply predicting them. It basically takes radar data from the past to create future radar data. So using both time and spatial components from the past, they can generate what it will look like in the near future.
+
+You can see this as the same as Snapchat filters, taking your face and generating a new face with modifications on it. To train such a generative model, you need a bunch of data from both the human faces and the kind of face you want to generate. Then, using a very similar model trained for many hours, you will have a powerful generative model. This kind of model often uses GANs architectures for training purposes and then uses the generator model independently.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/dE7MQ6E.png" width="512"/>](https://youtu.be/dlSIq64psEY)
+* Short read: [DeepMind uses AI to Predict More Accurate Weather Forecasts](https://www.louisbouchard.ai/deepmind-rain-nowcasting/)
+* Paper: [Skillful Precipitation Nowcasting using Deep Generative Models of Radar](https://www.nature.com/articles/s41586-021-03854-z)
+* [Click here for the code](https://github.com/deepmind/deepmind-research/tree/master/nowcasting)
 
 
-## title_goes_here [32]<a name="32"></a>
-my_text_goes_here
+## The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks [32]<a name="32"></a>
+Have you ever tuned in to a video or a TV show and the actors were completely inaudible, or the music was way too loud? Well, this problem, also called the cocktail party problem, may never happen again. Mitsubishi and Indiana University just published a new model as well as a new dataset tackling this task of identifying the right soundtrack. For example, if we take the same audio clip we just ran with the music way too loud, you can simply turn up or down the audio track you want to give more importance to the speech than the music.
 
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [33]<a name="33"></a>
-my_text_goes_here
+The problem here is isolating any independent sound source from a complex acoustic scene like a movie scene or a youtube video where some sounds are not well balanced. Sometimes you simply cannot hear some actors because of the music playing or explosions or other ambient sounds in the background. Well, if you successfully isolate the different categories in a soundtrack, it means that you can also turn up or down only one of them, like turning down the music a bit to hear all the other actors correctly. This is exactly what the researchers achieved.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/3hQeWiG.png" width="512"/>](https://youtu.be/Rpxufqt5r6I)
+* Short read: [Isolate Voice, Music, and Sound Effects With AI](https://www.louisbouchard.ai/isolate-voice-music-and-sound-effects-with-ai/)
+* Paper: [The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks](https://arxiv.org/pdf/2110.09958.pdf)
+* [Click here for the code](https://cocktail-fork.github.io/)
+
+
+## ADOP: Approximate Differentiable One-Pixel Point Rendering [33]<a name="33"></a>
+Imagine you want to generate a 3D model or simply a fluid video out of a bunch of pictures you took. Well, it is now possible! I don't want to give out too much, but the results are simply amazing and you need to check it out by yourself!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/aMAWzJU.png" width="512"/>](https://youtu.be/Jfph7Vld_Nw)
+* Short read: [AI Synthesizes Smooth Videos from a Couple of Images!](https://www.louisbouchard.ai/ai-synthesizes-smooth-videos-from-a-couple-of-images/)
+* Paper: [ADOP: Approximate Differentiable One-Pixel Point Rendering](https://arxiv.org/pdf/2110.06635.pdf)
+* [Click here for the code](https://github.com/darglein/ADOP)
 
 
 ---
@@ -477,8 +481,8 @@ my_text_goes_here
 
 [30] Haim, N., Feinstein, B., Granot, N., Shocher, A., Bagon, S., Dekel, T., & Irani, M. (2021). Diverse Generation from a Single Video Made Possible, https://arxiv.org/abs/2109.08591.
 
-[31] todo
+[31] Ravuri, S., Lenc, K., Willson, M., Kangin, D., Lam, R., Mirowski, P., Fitzsimons, M., Athanassiadou, M., Kashem, S., Madge, S. and Prudden, R., 2021. Skillful Precipitation Nowcasting using Deep Generative Models of Radar, https://www.nature.com/articles/s41586-021-03854-z
 
-[32] todo
+[32] Petermann, D., Wichern, G., Wang, Z., & Roux, J.L. (2021). The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks. https://arxiv.org/pdf/2110.09958.pdf.
 
-[33] todo
+[33] Rückert, D., Franke, L. and Stamminger, M., 2021. ADOP: Approximate Differentiable One-Pixel Point Rendering, https://arxiv.org/pdf/2110.06635.pdf.
