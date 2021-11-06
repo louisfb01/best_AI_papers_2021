@@ -142,7 +142,7 @@ Would you swipe right on an AI profile? Can you distinguish an actual human from
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/VKZrTBH.png" width="512"/>](https://youtu.be/IoRH5u13P-4)
 * Short read: [Would You Swipe Right on an AI Profile?](https://pub.towardsai.net/would-you-swipe-right-on-an-ai-profile-98dc8a4451ec)
-* Paper: [We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right?](arxiv_link)
+* Paper: [We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right?](https://studyonline.unsw.edu.au/blog/ai-generated-dating-profile)
 * [Click here for the code](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#forceEdit=true&sandboxMode=true&scrollTo=aeXshJM-Cuaf)
 
 
@@ -274,7 +274,7 @@ Imagine you are on vacation in another country where you do not speak the langua
 This model takes a picture, understands which particles are supposed to be moving, and realistically animates them in an infinite loop while conserving the rest of the picture entirely still creating amazing-looking videos like this one...
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](https://youtu.be/KgTa2r7d0I0)
+[<img src="https://imgur.com/JyarpBv.png" width="512"/>](https://youtu.be/KgTa2r7d0I0)
 * Short read: [Create Realistic Animated Looping Videos from Pictures](https://www.louisbouchard.ai/animate-pictures/)
 * Paper: [Animating Pictures with Eulerian Motion Fields](https://arxiv.org/abs/2011.15128)
 * [Click here for the code](https://eulerian.cs.washington.edu/)
@@ -295,7 +295,7 @@ Find out how this new model from OpenAI Generates Code From Words!
 
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/gFOnhmV.png" width="512"/>](https://youtu.be/az3oVVkTFB8)
-* Short read: [article_title](https://www.louisbouchard.ai/github-copilot/)
+* Short read: [OpenAI's New Code Generator: GitHub Copilot (and Codex)](https://www.louisbouchard.ai/github-copilot/)
 * Paper: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
 * [Click here for the code](https://copilot.github.com/)
 
