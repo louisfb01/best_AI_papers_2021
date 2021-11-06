@@ -54,12 +54,14 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [GitHub Copilot & Codex: Evaluating Large Language Models Trained on Code [23]](#23)
 - [Apple: Recognizing People in Photos Through Private On-Device Machine Learning [24]](#24)
 - [Image Synthesis and Editing with Stochastic Differential Equations [25]](#25)
-- [todo [26]](#26)
-- [todo [27]](#27)
-- [todo [28]](#28)
-- [todo [29]](#26)
-- [todo [30]](#27)
-- [todo [31]](#28)
+- [Sketch Your Own GAN [26]](#26)
+- [Tesla's Autopilot Explained [27]](#27)
+- [Styleclip: Text-driven manipulation of StyleGAN imagery [28]](#28)
+- [TimeLens: Event-based Video Frame Interpolation [29]](#29)
+- [Diverse Generation from a Single Video Made Possible [30]](#30)
+- [todo [31]](#31)
+- [todo [32]](#32)
+- [todo [33]](#33)
 - [Paper references](#references)
 
 ---
@@ -130,6 +132,8 @@ They basically leverage transformers’ attention mechanism in the powerful Styl
 * Short read: [GANsformers: Scene Generation with Generative Adversarial Transformers](https://whats-ai.medium.com/generative-adversarial-transformers-gansformers-explained-bf1fa76ef58d)
 * Paper: [Generative Adversarial Transformers](https://arxiv.org/pdf/2103.01209.pdf)
 * [Click here for the code](https://github.com/dorarad/gansformer)
+
+[Subscribe to my weekly newsletter ans stay up-to-date with new publications in AI!](http://eepurl.com/huGLT5)
 
 
 ## We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right? [8]<a name="8"></a>
@@ -264,6 +268,8 @@ Imagine you are on vacation in another country where you do not speak the langua
 * [Click here for the code](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset?fbclid=IwAR0pRAxhf8Vg-5H3fA0BEaRrMeD21HfoCJ-so8V0qmWK7Ub21dvy_jqgiVo)
 
 
+If you’d like to read more research papers as well, I recommend you read [my article](https://pub.towardsai.net/how-to-read-more-research-papers-7737e3770d7f) where I share my best tips for finding and reading more research papers.
+
 ## Animating Pictures with Eulerian Motion Fields [21]<a name="21"></a>
 This model takes a picture, understands which particles are supposed to be moving, and realistically animates them in an infinite loop while conserving the rest of the picture entirely still creating amazing-looking videos like this one...
 
@@ -315,57 +321,80 @@ This new method by Chenling Meng et al. from Stanford University and Carnegie Me
 * [Colab demo](https://colab.research.google.com/drive/1KkLS53PndXKQpPlS1iK-k1nRQYmlb4aO?usp=sharing)
 
 
-## title_goes_here [26]<a name="26"></a>
-my_text_goes_here
+## Sketch Your Own GAN [26]<a name="26"></a>
+Make GANs training easier for everyone by generating Images following a sketch! Indeed, whit this new method, you can control your GAN’s outputs based on the simplest type of knowledge you could provide it: hand-drawn sketches.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/zbD9T8e.png" width="512"/>](https://youtu.be/vz_wEQkTLk0)
+* Short read: [Make GANs Training Easier for Everyone : Generate Images Following a Sketch](https://www.louisbouchard.ai/make-gans-training-easier/)
+* Paper: [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774)
+* [Click here for the code](https://github.com/PeterWang512/GANSketching)
 
 
-## title_goes_here [27]<a name="27"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [28]<a name="28"></a>
-my_text_goes_here
+## Tesla's Autopilot Explained [27]<a name="27"></a>
+If you wonder how a Tesla car can not only see but navigate the roads with other vehicles, this is the video you were waiting for. A couple of days ago was the first Tesla AI day where Andrej Karpathy, the Director of AI at Tesla, and others presented how Tesla’s autopilot works from the image acquisition through their eight cameras to the navigation process on the roads.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/Lo7s7db.png" width="512"/>](https://youtu.be/DTHqgDqkIRw)
+* Short read: [Tesla's Autopilot Explained](https://www.louisbouchard.ai/tesla-autopilot-explained-tesla-ai-day/)
 
 
-## title_goes_here [29]<a name="29"></a>
-my_text_goes_here
+## Styleclip: Text-driven manipulation of StyleGAN imagery [28]<a name="28"></a>
+AI could generate images, then, using a lot of brainpower and trial and error, researchers could control the results following specific styles. Now, with this new model, you can do that using only text!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/KJIpmys.png" width="512"/>](https://youtu.be/RAXrwPskNso)
+* Short read: [Manipulate Real Images With Text - An AI For Creative Artists! StyleCLIP Explained](https://www.louisbouchard.ai/styleclip/)
+* Paper: [Styleclip: Text-driven manipulation of StyleGAN imagery.](https://arxiv.org/abs/2103.17249)
+* [Click here for the code](https://github.com/orpatashnik/StyleCLIP)
+* [Colab demo](https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global.ipynb)
 
 
-## title_goes_here [30]<a name="30"></a>
-my_text_goes_here
+## TimeLens: Event-based Video Frame Interpolation [29]<a name="29"></a>
+TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see. In fact, it achieves results that our intelligent phones and no other models could reach before!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="imgur_link.png" width="512"/>](https://youtu.be/HWA0yVXYRlk)
+* Short read: [How to Make Slow Motion Videos With AI!](https://www.louisbouchard.ai/timelens/)
+* Paper: [TimeLens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf)
+* [Click here for the code](https://github.com/uzh-rpg/rpg_timelens)
+
+
+## Diverse Generation from a Single Video Made Possible [30]<a name="30"></a>
+Have you ever wanted to edit a video?
+
+Remove or add someone, change the background, make it last a bit longer, or change the resolution to fit a specific aspect ratio without compressing or stretching it. For those of you who already ran advertisement campaigns, you certainly wanted to have variations of your videos for AB testing and see what works best. Well, this new research by Niv Haim et al. can help you do all of these out of a single video and in HD!
+
+Indeed, using a simple video, you can perform any tasks I just mentioned in seconds or a few minutes for high-quality videos. You can basically use it for any video manipulation or video generation application you have in mind. It even outperforms GANs in all ways and doesn’t use any deep learning fancy research nor requires a huge and impractical dataset! And the best thing is that this technique is scalable to high-resolution videos.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/4OE71WI.png" width="512"/>](https://youtu.be/Uy8yKPEi1dg)
+* Short read: [Generate Video Variations - No dataset or deep learning required!](https://www.louisbouchard.ai/vgpnn-generate-video-variations/)
+* Paper: [Diverse Generation from a Single Video Made Possible](https://nivha.github.io/vgpnn/VGPNN_paper.pdf)
+* [Click here for the code](https://nivha.github.io/vgpnn/)
 
 
 ## title_goes_here [31]<a name="31"></a>
+my_text_goes_here
+
+* Short Video Explanation:<br/>
+[<img src="imgur_link.png" width="512"/>](youtube_link)
+* Short read: [article_title](article_link)
+* Paper: [paper_title](arxiv_link)
+* [Click here for the code](github_link)
+
+
+## title_goes_here [32]<a name="32"></a>
+my_text_goes_here
+
+* Short Video Explanation:<br/>
+[<img src="imgur_link.png" width="512"/>](youtube_link)
+* Short read: [article_title](article_link)
+* Paper: [paper_title](arxiv_link)
+* [Click here for the code](github_link)
+
+
+## title_goes_here [33]<a name="33"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -438,15 +467,18 @@ my_text_goes_here
 
 [25] Meng, C., Song, Y., Song, J., Wu, J., Zhu, J.Y. and Ermon, S., 2021. Sdedit: Image synthesis and editing with stochastic differential equations. arXiv preprint arXiv:2108.01073.
 
-[26] todo
+[26] Wang, S.Y., Bau, D. and Zhu, J.Y., 2021. Sketch Your Own GAN. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 14050-14060).
 
-[27] todo
+[27] “Tesla AI Day”, Tesla, August 19th 2021, https://youtu.be/j0z4FweCy4M
 
-[28] todo
+[28] Patashnik, Or, et al., (2021), “Styleclip: Text-driven manipulation of StyleGAN imagery.”, https://arxiv.org/abs/2103.17249
 
-[29] todo
+[29] Stepan Tulyakov*, Daniel Gehrig*, Stamatios Georgoulis, Julius Erbach, Mathias Gehrig, Yuanyou Li, Davide Scaramuzza, TimeLens: Event-based Video Frame Interpolation, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, 2021, http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf
 
-[30] todo
+[30] Haim, N., Feinstein, B., Granot, N., Shocher, A., Bagon, S., Dekel, T., & Irani, M. (2021). Diverse Generation from a Single Video Made Possible, https://arxiv.org/abs/2109.08591.
 
 [31] todo
 
+[32] todo
+
+[33] todo
