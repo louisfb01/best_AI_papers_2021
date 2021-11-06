@@ -1,63 +1,62 @@
-# 2021: A Year Full of Amazing AI papers- A Review [work in progress...]
+# 2021: A Year Full of Amazing AI papers- A Review<br/> 📌 *[work in progress...]*
 ## A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
 
-Even with everything that happened in the world this year, we still had the chance to see a lot of amazing research come out. Especially in the field of artificial intelligence. More, many important aspects were highlighted this year, like the ethical aspects, important biases, and much more. Artificial intelligence and our understanding of the human brain and its link to AI is constantly evolving, showing promising applications in the soon future.
+While the world is still recovering, research hasn't slowed its frenetic pace, especially in the field of artificial intelligence. More, many important aspects were highlighted this year, like the ethical aspects, important biases, governance, transparency and much more. Artificial intelligence and our understanding of the human brain and its link to AI are constantly evolving, showing promising applications improving our life's quality in the near future. Still, we ought to be careful with which technology we choose to apply.
 
-Here are the most interesting research papers of the year, in case you missed any of them. In short, it is basically a curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
+>"Science cannot tell us what we ought to do, only what we can do."<br/>- Jean-Paul Sartre, Being and Nothingness
 
-**The complete reference to each paper is listed at the end of this repository.**
+Here are the most interesting research papers of the year, in case you missed any of them. In short, it is curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
+
+**The complete reference to each paper is listed at the end of this repository.**<br/>
+*This is a work in progress... Star this repository to stay up to date!* ⭐️
 
 Maintainer: [louisfb01](https://github.com/louisfb01)
 
 Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
 
 
-*Feel free to [message me](https://www.louisbouchard.ai/contact/) any interesting paper I may have missed to add to this repository*
+*Feel free to [message me](https://www.louisbouchard.ai/contact/) any interesting paper I may have missed to add to this repository.*
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!***
+*Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
 
-### Watch a complete 2020 rewind in 15 minutes
+<!-- ### Watch a complete 2020 rewind in 15 minutes
 
 [![Watch the video](https://imgur.com/xzZT1ll.png)](https://youtu.be/DHBclF-8KwE)
 
----
+--- -->
 
-### If you are interested in computer vision research, here is another great repository for you:
-The top 10 computer vision papers in 2020 with video demos, articles, code, and paper reference.
-
-[Top 10 Computer Vision Papers 2020](https://github.com/louisfb01/Top-10-Computer-Vision-Papers-2020)
-
+Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
 
 
 ## The Full List
-- [YOLOv4: Optimal Speed and Accuracy of Object Detection [1]](#1)
-- [DeepFaceDrawing: Deep Generation of Face Images from Sketches [2]](#2)
-- [Learning to Simulate Dynamic Environments with GameGAN [3]](#3)
-- [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models [4]](#4)
-- [Unsupervised Translation of Programming Languages [5]](#5)
-- [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization [6]](#6)
-- [High-Resolution Neural Face Swapping for Visual Effects [7]](#7)
-- [Swapping Autoencoder for Deep Image Manipulation [8]](#8)
-- [GPT-3: Language Models are Few-Shot Learners [9]](#9)
-- [Learning Joint Spatial-Temporal Transformations for Video Inpainting [10]](#10)
-- [Image GPT - Generative Pretraining from Pixels [11]](#11)
-- [Learning to Cartoonize Using White-box Cartoon Representations [12]](#12)
-- [FreezeG: Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs [13]](#13)
-- [Neural Re-Rendering of Humans from a Single Image [14]](#14)
-- [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image [15]](#15)
-- [Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments [16]](#16)
-- [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow [17]](#17)
-- [Crowdsampling the Plenoptic Function [18]](#18)
-- [Old Photo Restoration via Deep Latent Space Translation [19]](#19)
-- [Neural circuit policies enabling auditable autonomy [20]](#20)
-- [Lifespan Age Transformation Synthesis [21]](#21)
-- [DeOldify [22]](#22)
-- [COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning [23]](#23)
-- [Stylized Neural Painting [24]](#24)
-- [Is a Green Screen Really Necessary for Real-Time Portrait Matting? [25]](#25)
-- [ADA: Training Generative Adversarial Networks with Limited Data [26]](#26)
-- [Improving Data‐Driven Global Weather Prediction Using Deep Convolutional Neural Networks on a Cubed Sphere [27]](#27)
-- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [28]](#28)
+- [todo [1]](#1)
+- [todo [2]](#2)
+- [todo [3]](#3)
+- [todo [4]](#4)
+- [todo [5]](#5)
+- [todo [6]](#6)
+- [todo [7]](#7)
+- [todo [8]](#8)
+- [todo [9]](#9)
+- [todo [10]](#10)
+- [todo [11]](#11)
+- [todo [12]](#12)
+- [todo [13]](#13)
+- [todo [14]](#14)
+- [todo [15]](#15)
+- [todo [16]](#16)
+- [todo [17]](#17)
+- [todo [18]](#18)
+- [todo [19]](#19)
+- [todo [20]](#20)
+- [todo [21]](#21)
+- [todo [22]](#22)
+- [todo [23]](#23)
+- [todo [24]](#24)
+- [todo [25]](#25)
+- [todo [26]](#26)
+- [todo [27]](#27)
+- [todo [28]](#28)
 - [Paper references](#references)
 
 ---
@@ -372,7 +371,12 @@ This new method is able to generate a complete 3-dimensional scene and has the a
 
 ---
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+
+### If you would like to read more papers and have a broader view, here is another great repository for you covering 2020:
+[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+
+
+*Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
 
 ---
 
