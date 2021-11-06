@@ -40,13 +40,13 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [9]](#9)
 - [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING [10]](#10)
 - [Deep nets: What have they ever done for vision? [11]](#11)
-- [todo [12]](#12)
-- [todo [13]](#13)
-- [todo [14]](#14)
-- [todo [15]](#15)
-- [todo [16]](#16)
-- [todo [17]](#17)
-- [todo [18]](#18)
+- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [12]](#12)
+- [Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control [13]](#13)
+- [Total Relighting: Learning to Relight Portraits for Background Replacement [14]](#14)
+- [LASR: Learning Articulated Shape Reconstruction from a Monocular Video [15]](#15)
+- [Enhancing Photorealism Enhancement [16]](#16)
+- [DefakeHop: A Light-Weight High-Performance Deepfake Detector [17]](#17)
+- [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network [18]](#18)
 - [todo [19]](#19)
 - [todo [20]](#20)
 - [todo [21]](#21)
@@ -165,79 +165,81 @@ This promising model called GANverse3D only needs an image to create a 3D figure
 "I will openly share everything about deep nets for vision applications, their successes, and the limitations we have to address."
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](https://youtu.be/GhPDNzAVNDk)
+[<img src="https://imgur.com/PQX8Phj.png" width="512"/>](https://youtu.be/GhPDNzAVNDk)
 * Short read: [What is the state of AI in computer vision?](https://www.louisbouchard.ai/ai-in-computer-vision/)
 * Paper: [Deep nets: What have they ever done for vision?](https://arxiv.org/abs/1805.04025)
 
 
-## title_goes_here [12]<a name="12"></a>
-my_text_goes_here
+## Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image [12]<a name="12"></a>
+The next step for view synthesis: Perpetual View Generation, where the goal is to take an image to fly into it and explore the landscape!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/ezIYce7.png" width="512"/>](https://youtu.be/NIOt1HLV_Mo)
+* Short read: [Infinite Nature: Fly into an image and explore the landscape](https://www.louisbouchard.ai/infinite-nature/)
+* Paper: [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/pdf/2012.09855.pdf)
+* [Click here for the code](https://github.com/google-research/google-research/tree/master/infinite_nature)
+* [Colab demo](https://colab.research.google.com/github/google-research/google-research/blob/master/infinite_nature/infinite_nature_demo.ipynb#scrollTo=sCuRX1liUEVM)
 
 
-## title_goes_here [13]<a name="13"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [14]<a name="14"></a>
-my_text_goes_here
+##  Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control [13]<a name="13"></a>
+With this AI-powered nerve interface, the amputee can control a neuroprosthetic hand with life-like dexterity and intuitiveness.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/07soslr.png" width="512"/>](https://youtu.be/wNBrCRzlbVw)
+* Short read: [utee with an AI-Powered Hand! 🦾](https://www.louisbouchard.ai/an-amputee-with-an-ai-powered-hand/)
+* Paper: [ Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control](https://arxiv.org/abs/2103.13452)
 
 
-## title_goes_here [15]<a name="15"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [16]<a name="16"></a>
-my_text_goes_here
+## Total Relighting: Learning to Relight Portraits for Background Replacement [14]<a name="14"></a>
+Properly relight any portrait based on the lighting of the new background you add. Have you ever wanted to change the background of a picture but have it look realistic? If you’ve already tried that, you already know that it isn’t simple. You can’t just take a picture of yourself in your home and change the background for a beach. It just looks bad and not realistic. Anyone will just say “that’s photoshopped” in a second. For movies and professional videos, you need the perfect lighting and artists to reproduce a high-quality image, and that’s super expensive. There’s no way you can do that with your own pictures. Or can you?
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/a4KCChf.png" width="512"/>](https://youtu.be/rVP2tcF_yRI)
+* Short read: [Realistic Lighting on Different Backgrounds](https://www.louisbouchard.ai/backgrounds-with-lighting/)
+* Paper: [Total Relighting: Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)
 
 
-## title_goes_here [17]<a name="17"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [18]<a name="18"></a>
-my_text_goes_here
+## LASR: Learning Articulated Shape Reconstruction from a Monocular Video [15]<a name="15"></a>
+Generate 3D models of humans or animals moving from only a short video as input. This is a new method for generating 3D models of humans or animals moving from only a short video as input. Indeed, it actually understands that this is an odd shape, that it can move, but still needs to stay attached as this is still one "object" and not just many objects together...
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/9PmIb2e.png" width="512"/>](https://youtu.be/lac7wqjS-8E)
+* Short read: [Articulated 3D Reconstruction from Videos](https://www.louisbouchard.ai/3d-reconstruction-from-videos/)
+* Paper: [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_LASR_Learning_Articulated_Shape_Reconstruction_From_a_Monocular_Video_CVPR_2021_paper.pdf)
+* [Click here for the code](https://github.com/google/lasr)
+
+
+## Enhancing Photorealism Enhancement [16]<a name="16"></a>
+This AI can be applied live to the video game and transform every frame to look much more natural. The researchers from Intel Labs just published this paper called Enhancing Photorealism Enhancement. And if you think that this may be "just another GAN," taking a picture of the video game as an input and changing it following the style of the natural world, let me change your mind. They worked on this model for two years to make it extremely robust. It can be applied live to the video game and transform every frame to look much more natural. Just imagine the possibilities where you can put a lot less effort into the game graphic, make it super stable and complete, then improve the style using this model...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/MNpYCVj.png" width="512"/>](https://youtu.be/3rYosbwXm1w)
+* Short read: [Is AI The Future Of Video Game Design? Enhancing Photorealism Enhancement](https://www.louisbouchard.ai/the-future-of-video-game/)
+* Paper: [Enhancing Photorealism Enhancement](http://vladlen.info/papers/EPE.pdf)
+* [Click here for the code](https://github.com/isl-org/PhotorealismEnhancement)
+
+
+## DefakeHop: A Light-Weight High-Performance Deepfake Detector [17]<a name="17"></a>
+How to Spot a Deep Fake in 2021. Breakthrough US Army technology using artificial intelligence to find deepfakes.
+
+While they seem like they’ve always been there, the very first realistic deepfake didn’t appear until 2017. It went from the first-ever resembling fake images automatically generated to today’s identical copy of someone on videos, with sound.
+
+The reality is that we cannot see the difference between a real video or picture and a deepfake anymore. How can we tell what’s real from what isn’t? How can audio files or video files be used in court as proof if an AI can entirely generate them? Well, this new paper may provide answers to these questions. And the answer here may again be the use of artificial intelligence. The saying “I’ll believe it when I’ll see it” may soon change for “I’ll believe it when the AI tells me to believe it…”
+
+* Short Video Explanation:<br/>
+[<img src="imgur_link.png" width="512"/>](https://youtu.be/YMir8sRWRos)
+* Short read: [How to Spot a Deep Fake. Breakthrough US Army technology (2021)](https://www.louisbouchard.ai/spot-deepfakes/)
+* Paper: [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
+
+
+## High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network [18]<a name="18"></a>
+Apply any style to your 4K image in real-time using this new machine learning-based approach!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/6Z2OvBm.png" width="512"/>](https://youtu.be/X7WzlAyUGPo)
+* Short read: [High-Resolution Photorealistic Image Translation in Real-Time](https://www.louisbouchard.ai/4k-image-translation-in-real-time/)
+* Paper: [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/pdf/2105.09188.pdf)
+* [Click here for the code](https://github.com/csjliang/LPTN)
 
 
 ## title_goes_here [19]<a name="19"></a>
@@ -405,19 +407,19 @@ my_text_goes_here
 
 [11] Yuille, A.L., and Liu, C., 2021. Deep nets: What have they ever done for vision?. International Journal of Computer Vision, 129(3), pp.781–802, https://arxiv.org/abs/1805.04025.
 
-[12] todo
+[12] Liu, A., Tucker, R., Jampani, V., Makadia, A., Snavely, N. and Kanazawa, A., 2020. Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image, https://arxiv.org/pdf/2012.09855.pdf
 
-[13] todo
+[13] Nguyen & Drealan et al. (2021) A Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control: https://arxiv.org/abs/2103.13452
 
-[14] todo
+[14] Pandey et al., 2021, Total Relighting: Learning to Relight Portraits for Background Replacement, doi: 10.1145/3450626.3459872, https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf.
 
-[15] todo
+[15] Gengshan Yang et al., (2021), LASR: Learning Articulated Shape Reconstruction from a Monocular Video, CVPR, https://lasr-google.github.io/.
 
-[16] todo
+[16] Richter, Abu AlHaija, Koltun, (2021), "Enhancing Photorealism Enhancement", https://intel-isl.github.io/PhotorealismEnhancement/.
 
-[17] todo
+[17] DeepFakeHop: Chen, Hong-Shuo, et al., (2021), “DefakeHop: A Light-Weight High-Performance Deepfake Detector.” ArXiv abs/2103.06929
 
-[18] todo
+[18] Liang, Jie and Zeng, Hui and Zhang, Lei, (2021), "High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network", https://export.arxiv.org/pdf/2105.09188.pdf.
 
 [19] todo
 
