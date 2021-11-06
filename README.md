@@ -122,7 +122,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="7"></a>
+## title_goes_here [7]<a name="7"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -132,7 +132,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="8"></a>
+## title_goes_here [8]<a name="8"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -142,7 +142,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="9"></a>
+## title_goes_here [9]<a name="9"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -152,7 +152,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="10"></a>
+## title_goes_here [10]<a name="10"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -162,7 +162,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="11"></a>
+## title_goes_here [11]<a name="11"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -172,7 +172,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="12"></a>
+## title_goes_here [12]<a name="12"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -182,7 +182,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="13"></a>
+## title_goes_here [13]<a name="13"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -192,7 +192,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="14"></a>
+## title_goes_here [14]<a name="14"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -202,7 +202,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="15"></a>
+## title_goes_here [15]<a name="15"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -212,7 +212,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="16"></a>
+## title_goes_here [16]<a name="16"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -222,7 +222,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="17"></a>
+## title_goes_here [17]<a name="17"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -232,7 +232,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="18"></a>
+## title_goes_here [18]<a name="18"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -242,7 +242,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="19"></a>
+## title_goes_here [19]<a name="19"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -252,7 +252,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="20"></a>
+## title_goes_here [20]<a name="20"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -262,7 +262,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="21"></a>
+## title_goes_here [21]<a name="21"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -272,7 +272,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="22"></a>
+## title_goes_here [22]<a name="22"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -282,7 +282,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="23"></a>
+## title_goes_here [23]<a name="23"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -292,7 +292,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="24"></a>
+## title_goes_here [24]<a name="24"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -302,7 +302,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="25"></a>
+## title_goes_here [25]<a name="25"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -312,7 +312,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="26"></a>
+## title_goes_here [26]<a name="26"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -322,7 +322,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="27"></a>
+## title_goes_here [27]<a name="27"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -332,7 +332,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="28"></a>
+## title_goes_here [28]<a name="28"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -342,7 +342,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="29"></a>
+## title_goes_here [29]<a name="29"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -352,7 +352,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="30"></a>
+## title_goes_here [30]<a name="30"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -362,7 +362,7 @@ my_text_goes_here
 * [Click here for the code](github_link)
 
 
-## title_goes_here [4]<a name="31"></a>
+## title_goes_here [31]<a name="31"></a>
 my_text_goes_here
 
 * Short Video Explanation:<br/>
@@ -370,7 +370,6 @@ my_text_goes_here
 * Short read: [article_title](article_link)
 * Paper: [paper_title](arxiv_link)
 * [Click here for the code](github_link)
-
 
 
 ---
