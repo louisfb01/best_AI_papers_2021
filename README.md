@@ -133,7 +133,7 @@ They basically leverage transformers’ attention mechanism in the powerful Styl
 * Paper: [Generative Adversarial Transformers](https://arxiv.org/pdf/2103.01209.pdf)
 * [Click here for the code](https://github.com/dorarad/gansformer)
 
-[Subscribe to my weekly newsletter ans stay up-to-date with new publications in AI!](http://eepurl.com/huGLT5)
+>Subscribe to my weekly [newsletter](http://eepurl.com/huGLT5) and stay up-to-date with new publications in AI for 2022!
 
 
 ## We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right? [8]<a name="8"></a>
@@ -268,7 +268,7 @@ Imagine you are on vacation in another country where you do not speak the langua
 * [Click here for the code](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset?fbclid=IwAR0pRAxhf8Vg-5H3fA0BEaRrMeD21HfoCJ-so8V0qmWK7Ub21dvy_jqgiVo)
 
 
-If you’d like to read more research papers as well, I recommend you read [my article](https://pub.towardsai.net/how-to-read-more-research-papers-7737e3770d7f) where I share my best tips for finding and reading more research papers.
+>If you’d like to read more research papers as well, I recommend you read [my article](https://pub.towardsai.net/how-to-read-more-research-papers-7737e3770d7f) where I share my best tips for finding and reading more research papers.
 
 ## Animating Pictures with Eulerian Motion Fields [21]<a name="21"></a>
 This model takes a picture, understands which particles are supposed to be moving, and realistically animates them in an infinite loop while conserving the rest of the picture entirely still creating amazing-looking videos like this one...
@@ -411,7 +411,7 @@ Imagine you want to generate a 3D model or simply a fluid video out of a bunch o
 ---
 
 
-### If you would like to read more papers and have a broader view, here is another great repository for you covering 2020:
+>If you would like to read more papers and have a broader view, here is another great repository for you covering 2020:
 [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
 
 
