@@ -34,12 +34,12 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [Taming Transformers for High-Resolution Image Synthesis [3]](#3)
 - [Thinking Fast And Slow in AI [4]](#4)
 - [Automatic detection and quantification of floating marine macro-litter in aerial images [5]](#5)
-- [todo [6]](#6)
-- [todo [7]](#7)
-- [todo [8]](#8)
-- [todo [9]](#9)
-- [todo [10]](#10)
-- [todo [11]](#11)
+- [ShaRF: Shape-conditioned Radiance Fields from a Single View [6]](#6)
+- [Generative Adversarial Transformers [7]](#7)
+- [We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right? [8]](#8)
+- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [9]](#9)
+- [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING [10]](#10)
+- [Deep nets: What have they ever done for vision? [11]](#11)
 - [todo [12]](#12)
 - [todo [13]](#13)
 - [todo [14]](#14)
@@ -112,64 +112,62 @@ Odei Garcia-Garin et al. from the University of Barcelona have developed a deep 
 * [Click here for the code](https://github.com/amonleong/MARLIT)
 
 
-## title_goes_here [6]<a name="6"></a>
-my_text_goes_here
+## ShaRF: Shape-conditioned Radiance Fields from a Single View [6]<a name="6"></a>
+Just imagine how cool it would be to just take a picture of an object and have it in 3D to insert in the movie or video game you are creating or in a 3D scene for an illustration.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/WV6lq5s.png" width="512"/>](https://youtu.be/gHkkrNMlGNg)
+* Short read: [ShaRF: Take a Picture From a Real-Life Object, and Create a 3D Model of It](https://pub.towardsai.net/sharf-take-a-picture-from-a-real-life-object-and-create-a-3d-model-of-it-c6809806b32)
+* Paper: [ShaRF: Shape-conditioned Radiance Fields from a Single View](https://arxiv.org/abs/2102.08860)
+* [Click here for the code](http://www.krematas.com/sharf/index.html)
 
 
-## title_goes_here [7]<a name="7"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [8]<a name="8"></a>
-my_text_goes_here
+## Generative Adversarial Transformers [7]<a name="7"></a>
+They basically leverage transformers’ attention mechanism in the powerful StyleGAN2 architecture to make it even more powerful!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/CJzGHxa.png" width="512"/>](https://youtu.be/HO-_t0UArd4)
+* Short read: [GANsformers: Scene Generation with Generative Adversarial Transformers](https://whats-ai.medium.com/generative-adversarial-transformers-gansformers-explained-bf1fa76ef58d)
+* Paper: [Generative Adversarial Transformers](https://arxiv.org/pdf/2103.01209.pdf)
+* [Click here for the code](https://github.com/dorarad/gansformer)
 
 
-## title_goes_here [9]<a name="9"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [10]<a name="10"></a>
-my_text_goes_here
+## We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right? [8]<a name="8"></a>
+Would you swipe right on an AI profile? Can you distinguish an actual human from a machine? This is what this study reveals using AI-made-up people on dating apps.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/VKZrTBH.png" width="512"/>](https://youtu.be/IoRH5u13P-4)
+* Short read: [Would You Swipe Right on an AI Profile?](https://pub.towardsai.net/would-you-swipe-right-on-an-ai-profile-98dc8a4451ec)
+* Paper: [We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right?](arxiv_link)
+* [Click here for the code](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#forceEdit=true&sandboxMode=true&scrollTo=aeXshJM-Cuaf)
 
 
-## title_goes_here [11]<a name="11"></a>
-my_text_goes_here
+## Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [9]<a name="9"></a>
+Will Transformers Replace CNNs in Computer Vision? In less than 5 minutes, you will know how the transformer architecture can be applied to computer vision with a new paper called the Swin Transformer.
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/r9aL2iU.png" width="512"/>](https://youtu.be/QcCJJOLCeJQ)
+* Short read: [Will Transformers Replace CNNs in Computer Vision?](https://pub.towardsai.net/will-transformers-replace-cnns-in-computer-vision-55657a196833)
+* Paper: [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030v1)
+* [Click here for the code](https://github.com/microsoft/Swin-Transformer)
+
+
+## IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING [10]<a name="10"></a>
+This promising model called GANverse3D only needs an image to create a 3D figure that can be customized and animated!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/JJ5UAEp.png" width="512"/>](https://youtu.be/dvjwRBZ3Hnw)
+* Short read: [Create 3D Models from Images! GANverse3D & NVIDIA Omniverse](https://www.louisbouchard.ai/ganverse3d/)
+* Paper: [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING](https://arxiv.org/pdf/2010.09125.pdf)
+
+
+## Deep nets: What have they ever done for vision? [11]<a name="11"></a>
+"I will openly share everything about deep nets for vision applications, their successes, and the limitations we have to address."
+
+* Short Video Explanation:<br/>
+[<img src="imgur_link.png" width="512"/>](https://youtu.be/GhPDNzAVNDk)
+* Short read: [What is the state of AI in computer vision?](https://www.louisbouchard.ai/ai-in-computer-vision/)
+* Paper: [Deep nets: What have they ever done for vision?](https://arxiv.org/abs/1805.04025)
 
 
 ## title_goes_here [12]<a name="12"></a>
@@ -395,17 +393,17 @@ my_text_goes_here
 
 [5] Odei Garcia-Garin et al., Automatic detection and quantification of floating marine macro-litter in aerial images: Introducing a novel deep learning approach connected to a web application in R, Environmental Pollution, https://doi.org/10.1016/j.envpol.2021.116490.
 
-[6] todo
+[6] Rematas, K., Martin-Brualla, R., and Ferrari, V., “ShaRF: Shape-conditioned Radiance Fields from a Single View”, (2021), https://arxiv.org/abs/2102.08860
 
-[7] todo
+[7] Drew A. Hudson and C. Lawrence Zitnick, Generative Adversarial Transformers, (2021)
 
-[8] todo
+[8] Sandra Bryant et al., “We Asked Artificial Intelligence to Create Dating Profiles. Would You Swipe Right?”, (2021), UNSW Sydney blog.
 
-[9] todo
+[9] Liu, Z. et al., 2021, “Swin Transformer: Hierarchical Vision Transformer using Shifted Windows”, arXiv preprint https://arxiv.org/abs/2103.14030v1
 
-[10] todo
+[10] Zhang, Y., Chen, W., Ling, H., Gao, J., Zhang, Y., Torralba, A. and Fidler, S., 2020. Image gans meet differentiable rendering for inverse graphics and interpretable 3d neural rendering. arXiv preprint arXiv:2010.09125.
 
-[11] todo
+[11] Yuille, A.L., and Liu, C., 2021. Deep nets: What have they ever done for vision?. International Journal of Computer Vision, 129(3), pp.781–802, https://arxiv.org/abs/1805.04025.
 
 [12] todo
 
