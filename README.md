@@ -47,13 +47,13 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [Enhancing Photorealism Enhancement [16]](#16)
 - [DefakeHop: A Light-Weight High-Performance Deepfake Detector [17]](#17)
 - [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network [18]](#18)
-- [todo [19]](#19)
-- [todo [20]](#20)
-- [todo [21]](#21)
-- [todo [22]](#22)
-- [todo [23]](#23)
-- [todo [24]](#24)
-- [todo [25]](#25)
+- [Barbershop: GAN-based Image Compositing using Segmentation Masks [19]](#19)
+- [TextStyleBrush: Transfer of text aesthetics from a single example [20]](#20)
+- [Animating Pictures with Eulerian Motion Fields [21]](#21)
+- [CVPR 2021 Best Paper Award: GIRAFFE - Controllable Image Generation [22]](#22)
+- [GitHub Copilot & Codex: Evaluating Large Language Models Trained on Code [23]](#23)
+- [Apple: Recognizing People in Photos Through Private On-Device Machine Learning [24]](#24)
+- [Image Synthesis and Editing with Stochastic Differential Equations [25]](#25)
 - [todo [26]](#26)
 - [todo [27]](#27)
 - [todo [28]](#28)
@@ -242,74 +242,77 @@ Apply any style to your 4K image in real-time using this new machine learning-ba
 * [Click here for the code](https://github.com/csjliang/LPTN)
 
 
-## title_goes_here [19]<a name="19"></a>
-my_text_goes_here
+## Barbershop: GAN-based Image Compositing using Segmentation Masks [19]<a name="19"></a>
+This article is not about a new technology in itself. Instead, it is about a new and exciting application of GANs. Indeed, you saw the title, and it wasn’t clickbait. This AI can transfer your hair to see how it would look like before committing to the change…
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/TYzXcQ0.png" width="512"/>](https://youtu.be/HtqYMvBVJD8)
+* Short read: [Barbershop: Try Different Hairstyles and Hair Colors from Pictures (GANs)](https://www.louisbouchard.ai/barbershop/)
+* Paper: [Barbershop: GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/pdf/2106.01505.pdf)
+* [Click here for the code](https://github.com/ZPdesu/Barbershop)
 
 
-## title_goes_here [20]<a name="20"></a>
-my_text_goes_here
+## TextStyleBrush: Transfer of text aesthetics from a single example [20]<a name="20"></a>
+This new Facebook AI model can translate or edit text directly in the image in your own language, following the same style!
 
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [21]<a name="21"></a>
-my_text_goes_here
+Imagine you are on vacation in another country where you do not speak the language. You want to try out a local restaurant, but their menu is in the language you don’t speak. I think this won’t be too hard to imagine as most of us already faced this situation whether you see menu items or directions and you can’t understand what’s written. Well, in 2020, you would take out your phone and google translate what you see. In 2021 you don’t even need to open google translate anymore and try to write what you see one by one to translate it. Instead, you can simply use this new model by Facebook AI to translate every text in the image in your own language…
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/JDBqrlv.png" width="512"/>](https://youtu.be/hhAri5fl-XI)
+* Short read: [Translate or Edit Text from Images Emulating the Style: TextStyleBrush](https://www.louisbouchard.ai/textstylebrush/)
+* Paper: [TextStyleBrush: Transfer of text aesthetics from a single example](https://arxiv.org/abs/2106.08385)
+* [Click here for the code](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset?fbclid=IwAR0pRAxhf8Vg-5H3fA0BEaRrMeD21HfoCJ-so8V0qmWK7Ub21dvy_jqgiVo)
 
 
-## title_goes_here [22]<a name="22"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [23]<a name="23"></a>
-my_text_goes_here
+## Animating Pictures with Eulerian Motion Fields [21]<a name="21"></a>
+This model takes a picture, understands which particles are supposed to be moving, and realistically animates them in an infinite loop while conserving the rest of the picture entirely still creating amazing-looking videos like this one...
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="imgur_link.png" width="512"/>](https://youtu.be/KgTa2r7d0I0)
+* Short read: [Create Realistic Animated Looping Videos from Pictures](https://www.louisbouchard.ai/animate-pictures/)
+* Paper: [Animating Pictures with Eulerian Motion Fields](https://arxiv.org/abs/2011.15128)
+* [Click here for the code](https://eulerian.cs.washington.edu/)
 
 
-## title_goes_here [24]<a name="24"></a>
-my_text_goes_here
-
-* Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
-
-
-## title_goes_here [25]<a name="25"></a>
-my_text_goes_here
+## CVPR 2021 Best Paper Award: GIRAFFE - Controllable Image Generation [22]<a name="22"></a>
+Using a modified GAN architecture, they can move objects in the image without affecting the background or the other objects!
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](youtube_link)
-* Short read: [article_title](article_link)
-* Paper: [paper_title](arxiv_link)
-* [Click here for the code](github_link)
+[<img src="https://imgur.com/ZP6F9SF.png" width="512"/>](https://youtu.be/JIJkURAkCxM)
+* Short read: [CVPR 2021 Best Paper Award: GIRAFFE - Controllable Image Generation](https://www.louisbouchard.ai/cvpr-2021-best-paper/)
+* Paper: [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf)
+* [Click here for the code](https://github.com/autonomousvision/giraffe)
+
+
+## GitHub Copilot & Codex: Evaluating Large Language Models Trained on Code [23]<a name="23"></a>
+Find out how this new model from OpenAI Generates Code From Words!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/gFOnhmV.png" width="512"/>](https://youtu.be/az3oVVkTFB8)
+* Short read: [article_title](https://www.louisbouchard.ai/github-copilot/)
+* Paper: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
+* [Click here for the code](https://copilot.github.com/)
+
+
+## Apple: Recognizing People in Photos Through Private On-Device Machine Learning [24]<a name="24"></a>
+Using multiple machine learning-based algorithms running privately on your device, Apple allows you to accurately curate and organize your images and videos on iOS 15.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/HBuOzrG.png" width="512"/>](https://youtu.be/LIV-M-gFRFA)
+* Short read: [How Apple Photos Recognizes People in Private Photos Using Machine Learning](https://www.louisbouchard.ai/how-apple-photos-recognizes-people/)
+* Paper: [Recognizing People in Photos Through Private On-Device Machine Learning](https://machinelearning.apple.com/research/recognizing-people-photos)
+
+
+## Image Synthesis and Editing with Stochastic Differential Equations [25]<a name="25"></a>
+Say goodbye to complex GAN and transformer architectures for image generation!
+This new method by Chenling Meng et al. from Stanford University and Carnegie Mellon University can generate new images from any user-based inputs. Even people like me with zero artistic skills can now generate beautiful images or modifications out of quick sketches...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/IdrRxix.png" width="512"/>](https://youtu.be/xoEkSWJSm1k)
+* Short read: [Image Synthesis and Editing from Sketches: SDEdit. No more tedious training needed!](https://www.louisbouchard.ai/image-synthesis-from-sketches/)
+* Paper: [Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/pdf/2108.01073.pdf)
+* [Click here for the code](https://github.com/ermongroup/SDEdit)
+* [Colab demo](https://colab.research.google.com/drive/1KkLS53PndXKQpPlS1iK-k1nRQYmlb4aO?usp=sharing)
 
 
 ## title_goes_here [26]<a name="26"></a>
@@ -417,23 +420,23 @@ my_text_goes_here
 
 [16] Richter, Abu AlHaija, Koltun, (2021), "Enhancing Photorealism Enhancement", https://intel-isl.github.io/PhotorealismEnhancement/.
 
-[17] DeepFakeHop: Chen, Hong-Shuo, et al., (2021), “DefakeHop: A Light-Weight High-Performance Deepfake Detector.” ArXiv abs/2103.06929
+[17] DeepFakeHop: Chen, Hong-Shuo, et al., (2021), “DefakeHop: A Light-Weight High-Performance Deepfake Detector.” ArXiv abs/2103.06929.
 
 [18] Liang, Jie and Zeng, Hui and Zhang, Lei, (2021), "High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network", https://export.arxiv.org/pdf/2105.09188.pdf.
 
-[19] todo
+[19] Peihao Zhu et al., (2021), Barbershop, https://arxiv.org/pdf/2106.01505.pdf.
 
-[20] todo
+[20] Praveen Krishnan, Rama Kovvuri, Guan Pang, Boris Vassilev, and Tal Hassner, Facebook AI, (2021), ”TextStyleBrush: Transfer of text aesthetics from a single example”.
 
-[21] todo
+[21] Holynski, Aleksander, et al. “Animating Pictures with Eulerian Motion Fields.” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
 
-[22] todo
+[22] Michael Niemeyer and Andreas Geiger, (2021), "GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields", Published in CVPR 2021.
 
-[23] todo
+[23] Chen, M., Tworek, J., Jun, H., Yuan, Q., Pinto, H.P.D.O., Kaplan, J., Edwards, H., Burda, Y., Joseph, N., Brockman, G. and Ray, A., 2021. Evaluating large language models trained on code. arXiv preprint arXiv:2107.03374.
 
-[24] todo
+[24] Apple, “Recognizing People in Photos Through Private On-Device Machine Learning”, (2021), https://machinelearning.apple.com/research/recognizing-people-photos
 
-[25] todo
+[25] Meng, C., Song, Y., Song, J., Wu, J., Zhu, J.Y. and Ermon, S., 2021. Sdedit: Image synthesis and editing with stochastic differential equations. arXiv preprint arXiv:2108.01073.
 
 [26] todo
 
