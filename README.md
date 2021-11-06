@@ -227,7 +227,7 @@ While they seem like they’ve always been there, the very first realistic deepf
 The reality is that we cannot see the difference between a real video or picture and a deepfake anymore. How can we tell what’s real from what isn’t? How can audio files or video files be used in court as proof if an AI can entirely generate them? Well, this new paper may provide answers to these questions. And the answer here may again be the use of artificial intelligence. The saying “I’ll believe it when I’ll see it” may soon change for “I’ll believe it when the AI tells me to believe it…”
 
 * Short Video Explanation:<br/>
-[<img src="imgur_link.png" width="512"/>](https://youtu.be/YMir8sRWRos)
+[<img src="https://imgur.com/ZsyJyeJ.png" width="512"/>](https://youtu.be/YMir8sRWRos)
 * Short read: [How to Spot a Deep Fake. Breakthrough US Army technology (2021)](https://www.louisbouchard.ai/spot-deepfakes/)
 * Paper: [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
 
