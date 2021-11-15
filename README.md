@@ -500,6 +500,6 @@ Have you ever dreamed of taking the style of a picture, like this cool TikTok dr
 
 [33] Rückert, D., Franke, L. and Stamminger, M., 2021. ADOP: Approximate Differentiable One-Pixel Point Rendering, https://arxiv.org/pdf/2110.06635.pdf.
 
-[34] a) CLIPDraw: exploring text-to-drawing synthesis through language-image encoders
-b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis.<br/>
+[34] a) CLIPDraw: exploring text-to-drawing synthesis through language-image encoders <br/>
+b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis.
 
