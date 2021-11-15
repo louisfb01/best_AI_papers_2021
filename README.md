@@ -62,6 +62,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [Skillful Precipitation Nowcasting using Deep Generative Models of Radar [31]](#31)
 - [The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks [32]](#32)
 - [ADOP: Approximate Differentiable One-Pixel Point Rendering [33]](#33)
+- [(Style)CLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis [34]](#34)
 - [Paper references](#references)
 
 ---
@@ -408,6 +409,18 @@ Imagine you want to generate a 3D model or simply a fluid video out of a bunch o
 * [Click here for the code](https://github.com/darglein/ADOP)
 
 
+## (Style)CLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis [34]<a name="34"></a>
+Have you ever dreamed of taking the style of a picture, like this cool TikTok drawing style on the left, and applying it to a new picture of your choice? Well, I did, and it has never been easier to do. In fact, you can even achieve that from only text and can try it right now with this new method and their Google Colab notebook available for everyone (see references). Simply take a picture of the style you want to copy, enter the text you want to generate, and this algorithm will generate a new picture out of it! Just look back at the results above, such a big step forward! The results are extremely impressive, especially if you consider that they were made from a single line of text!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/WIZYx0d.png" width="512"/>](https://youtu.be/5xzcIzHm8Wo)
+* Short read: [Text-to-Drawing Synthesis With Artistic Control | CLIPDraw & StyleCLIPDraw](https://www.louisbouchard.ai/clipdraw/)
+* Paper (CLIPDraw): [CLIPDraw: exploring text-to-drawing synthesis through language-image encoders](https://arxiv.org/abs/2106.14843)
+* Paper (StyleCLIPDraw): [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://arxiv.org/abs/2111.03133)
+* [CLIPDraw Colab demo](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
+* [StyleCLIPDraw Colab demo](https://colab.research.google.com/github/pschaldenbrand/StyleCLIPDraw/blob/master/Style_ClipDraw_1_0_Refactored.ipynb)
+
+
 ---
 
 
@@ -486,3 +499,7 @@ Imagine you want to generate a 3D model or simply a fluid video out of a bunch o
 [32] Petermann, D., Wichern, G., Wang, Z., & Roux, J.L. (2021). The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks. https://arxiv.org/pdf/2110.09958.pdf.
 
 [33] Rückert, D., Franke, L. and Stamminger, M., 2021. ADOP: Approximate Differentiable One-Pixel Point Rendering, https://arxiv.org/pdf/2110.06635.pdf.
+
+[34] a) CLIPDraw: exploring text-to-drawing synthesis through language-image encoders
+b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis.<br/>
+
