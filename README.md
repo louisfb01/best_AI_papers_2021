@@ -418,7 +418,7 @@ Have you ever dreamed of taking the style of a picture, like this cool TikTok dr
 * Paper (CLIPDraw): [CLIPDraw: exploring text-to-drawing synthesis through language-image encoders](https://arxiv.org/abs/2106.14843)
 * Paper (StyleCLIPDraw): [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://arxiv.org/abs/2111.03133)
 * [CLIPDraw Colab demo](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
-* [StyleCLIPDraw Colab demo](https://colab.research.google.com/github/pschaldenbrand/StyleCLIPDraw/blob/master/Style_ClipDraw_1_0_Refactored.ipynb)
+* [StyleCLIPDraw Colab demo](https://colab.research.google.com/github/pschaldenbrand/StyleCLIPDraw/blob/master/Style_ClipDraw.ipynb)
 
 
 ---
