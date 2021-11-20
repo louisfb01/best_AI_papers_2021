@@ -63,6 +63,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [The Cocktail Fork Problem: Three-Stem Audio Separation for Real-World Soundtracks [32]](#32)
 - [ADOP: Approximate Differentiable One-Pixel Point Rendering [33]](#33)
 - [(Style)CLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis [34]](#34)
+- [SwinIR: Image restoration using swin transformer [35]](#35)
 - [Paper references](#references)
 
 ---
@@ -421,6 +422,19 @@ Have you ever dreamed of taking the style of a picture, like this cool TikTok dr
 * [StyleCLIPDraw Colab demo](https://colab.research.google.com/github/pschaldenbrand/StyleCLIPDraw/blob/master/Style_ClipDraw.ipynb)
 
 
+## SwinIR: Image restoration using swin transformer [35]<a name="35"></a>
+Have you ever had an image you really liked and could only manage to find a small version of it that looked like this image below on the left? How cool would it be if you could take this image and make it twice look as good? It’s great, but what if you could make it even four or eight times more high definition? Now we’re talking, just look at that.
+
+Here we enhanced the resolution of the image by a factor of four, meaning that we have four times more height and width pixels for more details, making it look a lot smoother. The best thing is that this is done within a few seconds, completely automatically, and works with pretty much any image. Oh, and you can even use it yourself with a demo they made available...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/qDyvbkv.png" width="512"/>](https://youtu.be/GFm3RfrtDoU)
+* Short read: [SwinIR: Image restoration using swin transformer](https://www.louisbouchard.ai/swinir/)
+* Paper: [SwinIR: Image restoration using swin transformer](https://arxiv.org/abs/2108.10257)
+* [Click here for the code](https://github.com/JingyunLiang/SwinIR)
+* [Demo](https://replicate.ai/jingyunliang/swinir)
+
+
 ---
 
 
@@ -503,3 +517,4 @@ Have you ever dreamed of taking the style of a picture, like this cool TikTok dr
 [34] a) CLIPDraw: exploring text-to-drawing synthesis through language-image encoders <br/>
 b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis.
 
+[35] Liang, J., Cao, J., Sun, G., Zhang, K., Van Gool, L. and Timofte, R., 2021. SwinIR: Image restoration using swin transformer. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1833–1844).
