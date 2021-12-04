@@ -64,6 +64,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [ADOP: Approximate Differentiable One-Pixel Point Rendering [33]](#33)
 - [(Style)CLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis [34]](#34)
 - [SwinIR: Image restoration using swin transformer [35]](#35)
+- [EditGAN: High-Precision Semantic Image Editing [36]](#36)
 - [Paper references](#references)
 
 ---
@@ -435,6 +436,16 @@ Here we enhanced the resolution of the image by a factor of four, meaning that w
 * [Demo](https://replicate.ai/jingyunliang/swinir)
 
 
+## EditGAN: High-Precision Semantic Image Editing [36]<a name="36"></a>
+Control any feature from quick drafts, and it will only edit what you want keeping the rest of the image the same! SOTA Image Editing from sketches model based on GANs by NVIDIA, MIT and UofT.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/EM68uUJ.png" width="512"/>](https://youtu.be/bus4OGyMQec)
+* Short read: [NVIDIA EditGAN: Image Editing with Full Control From Sketches](https://www.louisbouchard.ai/editgan/)
+* Paper: [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/abs/2111.03186)
+* [Click here for the code (will be released soon)](https://nv-tlabs.github.io/editGAN/)
+
+
 ---
 
 
@@ -518,3 +529,5 @@ Here we enhanced the resolution of the image by a factor of four, meaning that w
 b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis.
 
 [35] Liang, J., Cao, J., Sun, G., Zhang, K., Van Gool, L. and Timofte, R., 2021. SwinIR: Image restoration using swin transformer. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1833–1844).
+
+[36] Ling, H., Kreis, K., Li, D., Kim, S.W., Torralba, A. and Fidler, S., 2021, May. EditGAN: High-Precision Semantic Image Editing. In Thirty-Fifth Conference on Neural Information Processing Systems.
