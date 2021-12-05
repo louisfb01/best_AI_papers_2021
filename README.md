@@ -374,7 +374,7 @@ Indeed, using a simple video, you can perform any tasks I just mentioned in seco
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/4OE71WI.png" width="512"/>](https://youtu.be/Uy8yKPEi1dg)
 * Short read: [Generate Video Variations - No dataset or deep learning required!](https://www.louisbouchard.ai/vgpnn-generate-video-variations/)
-* Paper: [Diverse Generation from a Single Video Made Possible](https://nivha.github.io/vgpnn/VGPNN_paper.pdf)
+* Paper: [Diverse Generation from a Single Video Made Possible](https://arxiv.org/abs/2109.08591)
 * [Click here for the code](https://nivha.github.io/vgpnn/)
 
 
