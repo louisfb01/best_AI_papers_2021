@@ -362,6 +362,7 @@ TimeLens can understand the movement of the particles in-between the frames of a
 * Paper: [TimeLens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf)
 * [Click here for the code](https://github.com/uzh-rpg/rpg_timelens)
 
+>Subscribe to my weekly [newsletter](http://eepurl.com/huGLT5) and stay up-to-date with new publications in AI for 2022!
 
 ## Diverse Generation from a Single Video Made Possible [30]<a name="30"></a>
 Have you ever wanted to edit a video?
@@ -450,7 +451,7 @@ Control any feature from quick drafts, and it will only edit what you want keepi
 
 
 >If you would like to read more papers and have a broader view, here is another great repository for you covering 2020:
-[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) and feel free to subscribe to my weekly [newsletter](http://eepurl.com/huGLT5) and stay up-to-date with new publications in AI for 2022!
 
 
 *Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
