@@ -193,8 +193,8 @@ With this AI-powered nerve interface, the amputee can control a neuroprosthetic 
 
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/07soslr.png" width="512"/>](https://youtu.be/wNBrCRzlbVw)
-* Short read: [utee with an AI-Powered Hand! 🦾](https://www.louisbouchard.ai/an-amputee-with-an-ai-powered-hand/)
-* Paper: [ Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control](https://arxiv.org/abs/2103.13452)
+* Short read: [An amputee with an AI-Powered Hand! 🦾](https://www.louisbouchard.ai/an-amputee-with-an-ai-powered-hand/)
+* Paper: [Portable, Self-Contained Neuroprosthetic Hand with Deep Learning-Based Finger Control](https://arxiv.org/abs/2103.13452)
 
 
 ## Total Relighting: Learning to Relight Portraits for Background Replacement [14]<a name="14"></a>
