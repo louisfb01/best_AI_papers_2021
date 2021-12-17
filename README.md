@@ -27,6 +27,15 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
 
+----
+
+👀 **If you'd like to support my work** and use W&B (for free) to track your ML experiments and make your work reproducible or collaborate with a team, you can try it out by following [this guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)! Since most of the code here is PyTorch-based, we thought that a [QuickStart guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb) for using W&B on PyTorch would be most interesting to share.
+
+👉Follow [this quick guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb), use the same W&B lines in your code or any of the repos below, and have all your experiments automatically tracked in your w&b account! It doesn't take more than 5 minutes to set up and will change your life as it did for me! [Here's a more advanced guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb) for using Hyperparameter Sweeps if interested :)
+
+🙌 Thank you to [Weights & Biases](https://wandb.ai/) for sponsoring this repository and the work I've been doing, and thanks to any of you using this link and trying W&B!
+
+----
 
 ## The Full List
 - [DALL·E: Zero-Shot Text-to-Image Generation from OpenAI [1]](#1)
