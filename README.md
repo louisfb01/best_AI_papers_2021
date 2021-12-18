@@ -76,6 +76,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [(Style)CLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis [34]](#34)
 - [SwinIR: Image restoration using swin transformer [35]](#35)
 - [EditGAN: High-Precision Semantic Image Editing [36]](#36)
+- [CityNeRF: Building NeRF at City Scale [37]](#37)
 - [Paper references](#references)
 
 ---
@@ -458,6 +459,17 @@ Control any feature from quick drafts, and it will only edit what you want keepi
 * [Click here for the code (will be released soon)](https://nv-tlabs.github.io/editGAN/)
 
 
+## CityNeRF: Building NeRF at City Scale [37]<a name="37"></a>
+The model is called CityNeRF and grows from NeRF, which I previously covered on my channel. NeRF is one of the first models using radiance fields and machine learning to construct 3D models out of images. But NeRF is not that efficient and works for a single scale. Here, CityNeRF is applied to satellite and ground-level images at the same time to produce various 3D model scales for any viewpoint. In simple words, they bring NeRF to city-scale. But how?
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/tvr0LY9.png" width="512"/>](https://youtu.be/swfx0bJMIlY)
+* Short read: [CityNeRF: 3D Modelling at City Scale!
+](https://www.louisbouchard.ai/citynerf/)
+* Paper: [CityNeRF: Building NeRF at City Scale](https://arxiv.org/pdf/2112.05504.pdf)
+* [Click here for the code (will be released soon)](https://city-super.github.io/citynerf/)
+
+
 ---
 
 
@@ -543,3 +555,5 @@ b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Co
 [35] Liang, J., Cao, J., Sun, G., Zhang, K., Van Gool, L. and Timofte, R., 2021. SwinIR: Image restoration using swin transformer. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1833–1844).
 
 [36] Ling, H., Kreis, K., Li, D., Kim, S.W., Torralba, A. and Fidler, S., 2021, May. EditGAN: High-Precision Semantic Image Editing. In Thirty-Fifth Conference on Neural Information Processing Systems.
+
+[37] Xiangli, Y., Xu, L., Pan, X., Zhao, N., Rao, A., Theobalt, C., Dai, B. and Lin, D., 2021. CityNeRF: Building NeRF at City Scale.
