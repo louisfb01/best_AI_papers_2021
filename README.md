@@ -1,4 +1,4 @@
-# 2021: A Year Full of Amazing AI papers- A Review<br/> 📌 *[work in progress...]*
+# 2021: A Year Full of Amazing AI papers- A Review<br/> 📌
 ## A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
 
 While the world is still recovering, research hasn't slowed its frenetic pace, especially in the field of artificial intelligence. More, many important aspects were highlighted this year, like the ethical aspects, important biases, governance, transparency and much more. Artificial intelligence and our understanding of the human brain and its link to AI are constantly evolving, showing promising applications improving our life's quality in the near future. Still, we ought to be careful with which technology we choose to apply.
@@ -7,8 +7,7 @@ While the world is still recovering, research hasn't slowed its frenetic pace, e
 
 Here are the most interesting research papers of the year, in case you missed any of them. In short, it is curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
 
-**The complete reference to each paper is listed at the end of this repository.**<br/>
-*This is a work in progress... Star this repository to stay up to date!* ⭐️
+**The complete reference to each paper is listed at the end of this repository.** *Star this repository to stay up to date!* ⭐️
 
 Maintainer: [louisfb01](https://github.com/louisfb01)
 
@@ -77,6 +76,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 - [SwinIR: Image restoration using swin transformer [35]](#35)
 - [EditGAN: High-Precision Semantic Image Editing [36]](#36)
 - [CityNeRF: Building NeRF at City Scale [37]](#37)
+- [ClipCap: CLIP Prefix for Image Captioning [38]](#38)
 - [Paper references](#references)
 
 ---
@@ -464,10 +464,21 @@ The model is called CityNeRF and grows from NeRF, which I previously covered on 
 
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/tvr0LY9.png" width="512"/>](https://youtu.be/swfx0bJMIlY)
-* Short read: [CityNeRF: 3D Modelling at City Scale!
-](https://www.louisbouchard.ai/citynerf/)
+* Short read: [CityNeRF: 3D Modelling at City Scale!](https://www.louisbouchard.ai/citynerf/)
 * Paper: [CityNeRF: Building NeRF at City Scale](https://arxiv.org/pdf/2112.05504.pdf)
 * [Click here for the code (will be released soon)](https://city-super.github.io/citynerf/)
+
+
+## ClipCap: CLIP Prefix for Image Captioning [38]<a name="38"></a>
+We’ve seen AI generate images from other images using GANs. Then, there were models able to generate questionable images using text. In early 2021, DALL-E was published, beating all previous attempts to generate images from text input using CLIP, a model that links images with text as a guide. A very similar task called image captioning may sound really simple but is, in fact, just as complex. It is the ability of a machine to generate a natural description of an image.
+It’s easy to simply tag the objects you see in the image but it is quite another challenge to understand what’s happening in a single 2-dimensional picture, and this new model does it extremely well... 
+
+* Short Video Explanation:<br/>
+[<img src="https://serving.photos.photobox.com/68817419d396250ffce10e3de8cce677828db687427a3ce54f3d0d8d1aa43a40e9be19f9.jpg" width="512"/>](https://youtu.be/VQDrmuccWDo)
+* Short read: [New SOTA Image Captioning: ClipCap](https://www.louisbouchard.ai/clipcap/)
+* Paper: [ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/abs/2111.09734)
+* [Click here for the code](https://github.com/rmokady/CLIP_prefix_caption)
+* [Click here for the Colab Demo](https://colab.research.google.com/drive/1tuoAC5F4sC7qid56Z0ap-stR3rwdk0ZV?usp=sharing)
 
 
 ---
@@ -557,3 +568,5 @@ b) StyleCLIPDraw: Schaldenbrand, P., Liu, Z. and Oh, J., 2021. StyleCLIPDraw: Co
 [36] Ling, H., Kreis, K., Li, D., Kim, S.W., Torralba, A. and Fidler, S., 2021, May. EditGAN: High-Precision Semantic Image Editing. In Thirty-Fifth Conference on Neural Information Processing Systems.
 
 [37] Xiangli, Y., Xu, L., Pan, X., Zhao, N., Rao, A., Theobalt, C., Dai, B. and Lin, D., 2021. CityNeRF: Building NeRF at City Scale.
+
+[38] Mokady, R., Hertz, A. and Bermano, A.H., 2021. ClipCap: CLIP Prefix for Image Captioning. https://arxiv.org/abs/2111.09734
