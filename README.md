@@ -474,7 +474,7 @@ We’ve seen AI generate images from other images using GANs. Then, there were m
 It’s easy to simply tag the objects you see in the image but it is quite another challenge to understand what’s happening in a single 2-dimensional picture, and this new model does it extremely well... 
 
 * Short Video Explanation:<br/>
-[<img src="https://serving.photos.photobox.com/68817419d396250ffce10e3de8cce677828db687427a3ce54f3d0d8d1aa43a40e9be19f9.jpg" width="512"/>](https://youtu.be/VQDrmuccWDo)
+[<img src="https://imgur.com/Qtz6hPA.png" width="512"/>](https://youtu.be/VQDrmuccWDo)
 * Short read: [New SOTA Image Captioning: ClipCap](https://www.louisbouchard.ai/clipcap/)
 * Paper: [ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/abs/2111.09734)
 * [Click here for the code](https://github.com/rmokady/CLIP_prefix_caption)
