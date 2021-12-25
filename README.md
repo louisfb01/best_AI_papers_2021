@@ -20,7 +20,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
  ### Watch a complete 2021 rewind in 15 minutes
 
-[![Watch the video](https://imgur.com/3OoNOg1.png)](https://youtu.be/z5slE_akZmc)
+[<img src="https://imgur.com/3OoNOg1.png" width="512"/>](https://youtu.be/z5slE_akZmc)
 
 --- 
 
