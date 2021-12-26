@@ -1,4 +1,4 @@
-# 2021: A Year Full of Amazing AI papers- A Review<br/> 📌
+# 2021: A Year Full of Amazing AI papers- A Review 📌
 ## A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
 
 While the world is still recovering, research hasn't slowed its frenetic pace, especially in the field of artificial intelligence. More, many important aspects were highlighted this year, like the ethical aspects, important biases, governance, transparency and much more. Artificial intelligence and our understanding of the human brain and its link to AI are constantly evolving, showing promising applications improving our life's quality in the near future. Still, we ought to be careful with which technology we choose to apply.
