@@ -24,7 +24,10 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 --- 
 
-Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+### If you are interested in Computer Vision research, here is another great repository for you:
+A curated list of the top 10 CV publications in 2021 with a clear video explanation, link to a more in-depth article, and code.
+
+[The Top 10 Computer Vision Papers of 2021](https://github.com/louisfb01/top-10-cv-papers-2021)
 
 ----
 
