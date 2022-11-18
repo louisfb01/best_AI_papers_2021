@@ -11,6 +11,8 @@ Here are the most interesting research papers of the year, in case you missed an
 
 Maintainer: [louisfb01](https://github.com/louisfb01)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
 Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
 
 
