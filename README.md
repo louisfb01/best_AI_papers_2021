@@ -13,7 +13,7 @@ Maintainer: [louisfb01](https://github.com/louisfb01)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
-Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
+Subscribe to my [newsletter](https://louisbouchard.substack.com/) - The latest updates in AI explained every week.
 
 
 *Feel free to [message me](https://www.louisbouchard.ai/contact/) any interesting paper I may have missed to add to this repository.*
@@ -490,7 +490,7 @@ It’s easy to simply tag the objects you see in the image but it is quite anoth
 
 
 >If you would like to read more papers and have a broader view, here is another great repository for you covering 2020:
-[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) and feel free to subscribe to my weekly [newsletter](http://eepurl.com/huGLT5) and stay up-to-date with new publications in AI for 2022!
+[2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) and feel free to subscribe to my weekly [newsletter](https://louisbouchard.substack.com/) and stay up-to-date with new publications in AI for 2022!
 
 
 *Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
